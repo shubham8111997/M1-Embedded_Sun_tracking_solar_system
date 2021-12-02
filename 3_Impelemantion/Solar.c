@@ -1,5 +1,6 @@
 #include <Servo.h>
 
+
 Servo myservo;  
 int ldr1 = 4; 
 int ldr2 = 5;
